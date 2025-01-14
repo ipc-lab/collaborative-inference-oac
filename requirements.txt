@@ -1,0 +1,7 @@
+numpy
+scikit-learn
+mlflow
+torch
+torchvision
+transformers
+datasets
